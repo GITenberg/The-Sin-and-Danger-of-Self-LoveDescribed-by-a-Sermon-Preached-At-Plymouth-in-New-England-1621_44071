@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '42552'
     url: http://www.gutenberg.org/2009/agents/42552
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44071#The-Sin-and-Danger-of-Self-LoveDescribed-by-a-Sermon-Preached-At-Plymouth-in-New-England-1621
 gutenberg_issued: '2013-10-30'
 gutenberg_type: Text
 identifiers:
